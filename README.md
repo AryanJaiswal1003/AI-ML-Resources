@@ -135,30 +135,8 @@ These resources complement the local collection and are organized by topic.
 3. *Hadoop: The Definitive Guide*
 4. *High-Performance Browser Networking*
 
-## Usage and maintenance
-
-- Open any local title by selecting its linked filename above.
-- Keep filenames stable so the links in this README continue to work.
-- Add new books under the most relevant subject heading.
-- Prefer descriptive filenames and avoid unnecessary duplicate copies.
-- Review external links periodically because online resources can move.
-
 ## Copyright and responsible use
 
 This collection is intended for personal learning and reference. Please make
 sure that you have the right to store, access, and share any local or linked
 material, and follow each author's or publisher's license and terms of use.
-
-## Possible folder names
-
-Good replacements for `Books-master` include:
-
-1. **Data Science Reading Library** — clear and professional
-2. **ML & Data Engineering Library** — highlights the strongest themes
-3. **The Data Science Shelf** — concise and memorable
-4. **AI/ML Knowledge Base** — suitable if the collection continues to grow
-5. **Analytics & Machine Learning References** — descriptive and formal
-6. **DataLab Book Collection** — short and project-friendly
-7. **The Learning Repository** — broad enough for future technology books
-
-**Recommended name:** `Data-Science-Reading-Library`
